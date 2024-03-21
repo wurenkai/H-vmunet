@@ -9,6 +9,8 @@
 </div>
 
 ## News🚀
+(2023.03.21) ***Model weights have been uploaded for download***🔥🔥
+
 (2023.03.21) ***The project code has been uploaded***🔥
 
 (2023.03.20) ***The first edition of our paper has been uploaded to arXiv*** 📃
@@ -53,6 +55,18 @@ First, in the test.py file, you should change the address of the checkpoint in '
 python test.py
 ```
 - After testing, you could obtain the outputs in './results/' </br>
+
+**4. Get model weights**  
+
+*A.ISIC2017* </br>
+[Google Drive](https://drive.google.com/file/d/10If43saeVW06p9q3oePAL3hOHqRxFoZV/view?usp=sharing)
+
+*B.Spleen* </br>
+[Google Drive](https://drive.google.com/file/d/18aXOv8u-nFIbBdiUwnzHdQ7ELrNIhMu3/view?usp=sharing)
+
+*C.CVC-ClinicDB* </br>
+[Google Drive](https://drive.google.com/file/d/1mG_zOlsz7OuX_qHVmB3mjMeb1GUNgtkP/view?usp=sharing)
+
 
 ## Citation
 If you find this repository helpful, please consider citing: </br>
