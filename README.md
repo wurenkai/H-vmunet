@@ -38,10 +38,10 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 2- Run `Prepare_ISIC2017.py` for data preperation and dividing data to train,validation and test sets. </br>
 
 *B.Spleen* </br>
-1- Download the Spleen train dataset from [this](http://medicaldecathlon.com/) link. </br>
+1- Download the Spleen dataset from [this](http://medicaldecathlon.com/) link. </br>
 
 *C.CVC-ClinicDB* </br>
-1- Download the CVC-ClinicDB train dataset from [this](https://polyp.grand-challenge.org/CVCClinicDB/) link. </br>
+1- Download the CVC-ClinicDB dataset from [this](https://polyp.grand-challenge.org/CVCClinicDB/) link. </br>
 
 **2. Train the H_vmunet.**
 ```
