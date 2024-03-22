@@ -41,7 +41,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 1- Download the Spleen train dataset from [this](http://medicaldecathlon.com/) link. </br>
 
 *C.CVC-ClinicDB* </br>
-1- Download the Spleen train dataset from [this](https://polyp.grand-challenge.org/CVCClinicDB/) link. </br>
+1- Download the CVC-ClinicDB train dataset from [this](https://polyp.grand-challenge.org/CVCClinicDB/) link. </br>
 
 **2. Train the H_vmunet.**
 ```
