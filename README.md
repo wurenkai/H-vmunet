@@ -9,11 +9,11 @@
 </div>
 
 ## News🚀
-(2023.03.21) ***Model weights have been uploaded for download***🔥🔥
+(2024.03.21) ***Model weights have been uploaded for download***🔥🔥
 
-(2023.03.21) ***The project code has been uploaded***🔥
+(2024.03.21) ***The project code has been uploaded***🔥
 
-(2023.03.20) ***The first edition of our paper has been uploaded to arXiv*** 📃
+(2024.03.20) ***The first edition of our paper has been uploaded to arXiv*** 📃
 
 **0. Main Environments.** </br>
 The environment installation procedure can be followed by [VM-UNet](https://github.com/JCruan519/VM-UNet), or by following the steps below:</br>
