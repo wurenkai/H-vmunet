@@ -70,8 +70,13 @@ python test.py
 
 ## Citation
 If you find this repository helpful, please consider citing: </br>
-
-Updates in progress...
-
+```
+@article{wu2024h,
+  title={H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation},
+  author={Wu, Renkai and Liu, Yinghao and Liang, Pengchen and Chang, Qing},
+  journal={arXiv preprint arXiv:2403.13642},
+  year={2024}
+}
+```
 ## Acknowledgement
 Thanks to [Vim](https://github.com/hustvl/Vim), [HorNet](https://github.com/raoyongming/HorNet) and [VM-UNet](https://github.com/JCruan519/VM-UNet) for their outstanding work.
