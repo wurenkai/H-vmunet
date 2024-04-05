@@ -35,7 +35,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 
 *A.ISIC2017* </br>
 1- Download the ISIC 2017 train dataset from [this](https://challenge.isic-archive.com/data) link and extract both training dataset and ground truth folders inside the `/data/dataset_isic17/`. </br>
-2- Run `Prepare_ISIC2017.py` for data preperation and dividing data to train,validation and test sets. </br>
+2- Run `Prepare_ISIC2017.py` for data preparation and dividing data to train,validation and test sets. </br>
 
 *B.Spleen* </br>
 1- Download the Spleen dataset from [this](http://medicaldecathlon.com/) link. </br>
