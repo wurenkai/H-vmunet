@@ -43,6 +43,19 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 *C.CVC-ClinicDB* </br>
 1- Download the CVC-ClinicDB dataset from [this](https://polyp.grand-challenge.org/CVCClinicDB/) link. </br>
 
+*D. Prepare your own dataset* </br>
+1. The file format reference is as follows. (The image is a 24-bit png image. The mask is an 8-bit png image. (0 pixel dots for background, 255 pixel dots for target))
+- './your_dataset/'
+  - images
+    - 0000.png
+    - 0001.png
+  - masks
+    - 0000.png
+    - 0001.png
+  - Prepare_your_dataset.py
+2. In the 'Prepare_your_dataset.py' file, change the number of training sets, validation sets and test sets you want.</br>
+3. Run 'Prepare_your_dataset.py'. </br>
+
 **2. Train the H_vmunet.**
 ```
 python train.py
