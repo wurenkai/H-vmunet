@@ -9,7 +9,7 @@
 </div>
 
 ## News🚀
-(2025.01.12)***The paper has been accepted by Neurocomputing***🔥🔥
+(2025.01.12) ***The paper has been accepted by Neurocomputing***🔥🔥
 
 (2024.03.21) ***Model weights have been uploaded for download***🔥
 
