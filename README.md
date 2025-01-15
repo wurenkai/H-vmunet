@@ -9,9 +9,11 @@
 </div>
 
 ## News🚀
-(2024.03.21) ***Model weights have been uploaded for download***🔥🔥
+(2025.01.12)***The paper has been accepted by Neurocomputing***🔥🔥
 
-(2024.03.21) ***The project code has been uploaded***🔥
+(2024.03.21) ***Model weights have been uploaded for download***🔥
+
+(2024.03.21) ***The project code has been uploaded***
 
 (2024.03.20) ***The first edition of our paper has been uploaded to arXiv*** 📃
 
