@@ -4,7 +4,7 @@
   
   Renkai Wu, Yinghao Liu, Pengchen Liang*, and Qing Chang* </br>
   
-  [![arXiv](https://img.shields.io/badge/arXiv-2403.13642-b31b1b.svg)](http://arxiv.org/abs/2403.13642)
+  [[paper link]](https://doi.org/10.1016/j.neucom.2025.129447)
 
 </div>
 
