@@ -87,11 +87,13 @@ python test.py
 ## Citation
 If you find this repository helpful, please consider citing: </br>
 ```
-@article{wu2024h,
-  title={H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation},
+@article{wu2025h,
+  title={H-vmunet: High-order vision mamba unet for medical image segmentation},
   author={Wu, Renkai and Liu, Yinghao and Liang, Pengchen and Chang, Qing},
-  journal={arXiv preprint arXiv:2403.13642},
-  year={2024}
+  journal={Neurocomputing},
+  pages={129447},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 ## Acknowledgement
